@@ -14,5 +14,8 @@
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
     "uuid": "^7.0.3"
-  }
+  },
+  "resolutions": {
+    "fs-capacitor": "3.0.0"
+}
 }
